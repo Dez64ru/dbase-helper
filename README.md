@@ -4,7 +4,7 @@ Library for
 ```bash
 composer require Dez64ru/dbase-helper
 ``` 
-###Example 
+### Example 
 ```php
     require_once __DIR__ . 'vendor/autoload.php';
     
