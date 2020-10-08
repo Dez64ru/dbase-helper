@@ -1,5 +1,5 @@
 # Bbase-helper  
-Library for 
+Library-wrapper for working with dbase_* php-functions in a convenient form.
 ### installation  
 ```bash
 composer require Dez64ru/dbase-helper
