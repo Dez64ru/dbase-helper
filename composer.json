@@ -4,7 +4,7 @@
   "description": "Helper for dBase",
   "keywords": ["dbase","dbf","database"],
   "homepage": "https://github.com/dez64ru/dbase-helper",
-  "version": "1.0.2",
+  "version": "1.0.1",
   "require": {
     "php": ">=7.2"
   },
